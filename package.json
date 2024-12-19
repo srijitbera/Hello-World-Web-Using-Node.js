@@ -1,0 +1,11 @@
+{
+  "name": "nodetuto",
+  "version": "1.0.0",
+  "description": "a sample module create",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
